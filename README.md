@@ -1,5 +1,5 @@
 # Median-knn_imputation
-We use the dataset BrainCancer in order to put into practice meidan and Knn imputation. This dataset is interesting because many of the predictors contain missing values  and most rows of the dataset have at least one missing value
+We use the dataset BreastCancer in order to put into practice meidan and Knn imputation. This dataset is interesting because many of the predictors contain missing values  and most rows of the dataset have at least one missing value
 
 #setwd("")
 load("BreastCancer.RData")
